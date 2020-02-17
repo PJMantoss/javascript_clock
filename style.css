@@ -73,6 +73,11 @@ body {
     padding: 10px;
 }
 
+.love > span > a {
+    text-decoration: none;
+    color: black;
+}
+
 @media (max-width: 770px){
 
     html {
