@@ -63,11 +63,11 @@ body {
 }
 
 .love > span {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Sriracha', cursive;;
     font-size: 16px;
-    font-weight: 300;
+    font-weight: 400;
 }
-@media (max-width: 750px){
+@media (max-width: 770px){
 
     html {
         background: url(https://i.picsum.photos/id/930/800/1000.jpg?blur=5);
