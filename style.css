@@ -103,5 +103,12 @@ body {
         height: 5px;
     }
 
-    .love > span {}
+    .love > span {
+        font-size: 14px;
+    }
+
+    .love > img {
+        width: 24px;
+        padding: 6px;
+    }
 }
