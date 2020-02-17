@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    background: url('https://i.picsum.photos/id/930/1500/1000.jpg?blur=5');
+    background-size: cover;
+    background-repeat: no-repeat;
+    scroll-behavior: smooth;
+}
+
+body {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    height: 100vh;
+}
+
+.clock {
+    width: 480px;
+    height: 480px;
+    border: 20px solid white;
+    border-radius: 50%;
+    margin: 50px auto;
+}
